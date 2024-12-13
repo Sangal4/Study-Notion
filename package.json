@@ -64,7 +64,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3000",
+  "proxy": "https://study-notion-i6o9.onrender.com",
   "devDependencies": {
     "tailwindcss": "^3.2.7"
   }
