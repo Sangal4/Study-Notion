@@ -1,11 +1,7 @@
 # StudyNotion
 ## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
+https://study-notion-1-6j89.onrender.com/ \
 otp mail will be in your spam section
-
-## Contributing
-HacktoberFest Is on !!
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## Installation
 
